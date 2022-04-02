@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28746f61-5ed3-4f8a-8faf-d5d8018891d5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GalenDifferentBrowserSize</find>
+      <find>desktop_GeneralWebelementAttributesAdditional</find>
+      <find>screen</find>
+      <find>full_header_box</find>
+      <find>http</find>
+      <find>png</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/GalenExample3_GalenWebelementGroupDifferentPageSection.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GalenExample2_GeneralWebelementAttributesAdditional.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GalenExample5_GalenDifferentBrowserSize.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/galen_spec_gspec/GalenDifferentBrowserSize.gspec" />
+        <option value="$PROJECT_DIR$/src/test/resources/galen_spec_gspec/GeneralWebelementAttributes.gspec" />
+        <option value="$PROJECT_DIR$/src/test/java/GalenExample1_GeneralWebelementAttributes.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/galen_spec_gspec/GalenImageCompare.gspec" />
+        <option value="$PROJECT_DIR$/src/test/java/GalenExample4_ImageCompare.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="550" />
+    <option name="y" value="70" />
+    <option name="width" value="1260" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ecommercefashion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommercefashion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecommercefashion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommercefashion" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TonyStark\Framework22_GalenFramework_LooknFeel_\ecommercefashion\src\test\java" />
+      <recent name="D:\TonyStark\Framework22_GalenFramework_LooknFeel_\ecommercefashion\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GalenExample4_ImageCompare">
+    <configuration name="GalenExample1_GeneralWebelementAttributes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ecommercefashion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GalenExample1_GeneralWebelementAttributes" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GalenExample4_ImageCompare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ecommercefashion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GalenExample4_ImageCompare" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GalenExample5_GalenDifferentBrowserSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ecommercefashion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GalenExample5_GalenDifferentBrowserSize" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GalenExample4_ImageCompare" />
+        <item itemvalue="JUnit.GalenExample1_GeneralWebelementAttributes" />
+        <item itemvalue="JUnit.GalenExample5_GalenDifferentBrowserSize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28746f61-5ed3-4f8a-8faf-d5d8018891d5" name="Default Changelist" comment="" />
+      <created>1596256229339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596256229339</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GalenExample4_ImageCompare - 2020.08.01 at 10h 50m 38s.xml">
+      <configuration name="GalenExample4_ImageCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GalenExample4_ImageCompare - 2020.08.01 at 10h 54m 50s.xml">
+      <configuration name="GalenExample4_ImageCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GalenExample4_ImageCompare - 2020.08.01 at 10h 56m 34s.xml">
+      <configuration name="GalenExample4_ImageCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GalenExample4_ImageCompare - 2020.08.01 at 10h 58m 16s.xml">
+      <configuration name="GalenExample4_ImageCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GalenExample4_ImageCompare - 2020.08.01 at 10h 59m 57s.xml">
+      <configuration name="GalenExample4_ImageCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GalenExample4_ImageCompare - 2020.08.01 at 11h 09m 33s.xml">
+      <configuration name="GalenExample4_ImageCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GalenExample4_ImageCompare - 2020.08.01 at 11h 10m 07s.xml">
+      <configuration name="GalenExample4_ImageCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GalenExample4_ImageCompare - 2020.08.01 at 11h 13m 52s.xml">
+      <configuration name="GalenExample4_ImageCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GalenExample4_ImageCompare - 2020.08.01 at 11h 15m 05s.xml">
+      <configuration name="GalenExample4_ImageCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GalenExample4_ImageCompare - 2020.08.01 at 11h 15m 34s.xml">
+      <configuration name="GalenExample4_ImageCompare" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Project Explorer" show_stripe_button="false" weight="0.32997313" />
+      <window_info id="UI Designer" />
+      <window_info id="Job Explorer" show_stripe_button="false" weight="0.32997313" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17137097" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Console" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32859176" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49786627" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997155" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Project Explorer" order="2" show_stripe_button="false" weight="0.32997313" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Job Explorer" order="4" show_stripe_button="false" weight="0.32997313" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.2641129" />
+      <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Console" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32859176" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.49786627" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3997155" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>objLayoutReport.errors()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Arrays.asList(&quot;GalenDifferentBrowserSize&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/GalenExample2_GeneralWebelementAttributesAdditional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-815">
+          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/galen_spec_gspec/sample_galen_image_reference.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/galen_spec_gspec/GeneralWebelementAttributesAdditional.gspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-482">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/galen_spec_gspec/GeneralWebelementAttributes.gspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/galen_spec_gspec/GalenWebelementGroupDifferentPageSection.gspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/galen_spec_gspec/GalenDifferentBrowserSize.gspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GalenExample5_GalenDifferentBrowserSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#1341#1356#0" expanded="true" />
+            <element signature="method#setUp#0;class#GalenExample5_GalenDifferentBrowserSize#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GalenExample1_GeneralWebelementAttributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GalenExample3_GalenWebelementGroupDifferentPageSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="26" selection-start-line="25" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/galen_spec_gspec/GalenImageCompare.gspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GalenExample4_ImageCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="method#setUp#0;class#GalenExample4_ImageCompare#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
